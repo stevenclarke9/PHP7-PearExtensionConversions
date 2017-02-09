@@ -2,11 +2,11 @@
 
 Convert PHP Pear Extensions to PHP 7 syntax in order to stop Deprecated Notice Messages.
 
-# Software Development
+## Software Development
 
 On this internet site I plan to show some of my skills in software development.
 
-# Philosophy
+## Philosophy
 
 On the subject of Software Development I am agnostic to the use of any particular framework, library or programming language. I am also not interrested in any of the flame wars critizing a platform, programming language, framework, libraries or tools.
 
