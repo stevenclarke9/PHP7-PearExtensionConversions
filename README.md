@@ -22,7 +22,7 @@ I follow these steps to solve programming problems.
 
 4. Implement in a Scripting Language. Can I use the dynamic Scripting Languages to implement a programme to solve the problem or a step to solve the problem.
 
-I will use PHP, Perl or Python to implement a programme. I have also experimented with using Erlang, Guile (a dialect of Scheme which is derived from Common Lisp), and PicoLisp.
+  * I will use PHP, Perl or Python to implement a programme. I have also experimented with using Erlang, Guile (a dialect of Scheme which is derived from Common Lisp), and PicoLisp.
 
 5. Implement in C++. if the programme is executing slowly because it is implemented in an interpreted language, then I will implement the programme in C++.
 
